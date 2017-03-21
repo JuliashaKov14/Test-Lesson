@@ -1,0 +1,27 @@
+public class Test:MonoBehaviour
+{
+public int age = 13;
+public string name = "Julia";
+public float time = 15.07f;
+private bool run =true;
+
+void Start()
+{
+}
+public int()
+{
+return 13;
+}
+public string()
+{
+return "Julia";
+}
+public float()
+{
+return  15.07f;
+}
+private bool()
+{
+return true;
+}
+}
